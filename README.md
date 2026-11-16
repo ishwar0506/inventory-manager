@@ -237,9 +237,3 @@ project-folder/
 ├── basic_inventory.db       # created automatically on first run
 └── last_bale_no.txt         # created/updated by the outward-entry workflow
 ```
-
-## License
-
-No license is specified in the provided source file. Add a license
-before distributing or publishing the project if you want to define
-reuse and redistribution terms.
