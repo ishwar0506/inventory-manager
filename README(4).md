@@ -95,7 +95,7 @@ in an SQLite database.
 
 ### 1. Get the project
 
-Place `king_manager(4).py` in a folder where you want the application
+Place `king_manager.py` in a folder where you want the application
 and its database to be stored.
 
 ### 2. Install dependencies
@@ -233,7 +233,7 @@ available with a right-click.
 
 ``` text
 project-folder/
-├── king_manager(4).py
+├── king_manager.py
 ├── basic_inventory.db       # created automatically on first run
 └── last_bale_no.txt         # created/updated by the outward-entry workflow
 ```
